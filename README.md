@@ -1,7 +1,7 @@
 # Unity RPG Game Project
 
 ## Project Overview
-This is a Unity RPG game, designed to immerse players into a rich fantasy world with engaging gameplay mechanics and captivating storylines.
+This is a Unity RPG game, designed to immerse players into a simple world with engaging gameplay mechanics and captivating storylines.
 
 ## Features
 - Open-world exploration
@@ -35,9 +35,6 @@ This is a Unity RPG game, designed to immerse players into a rich fantasy world 
 4. Hit the 'Play' button in the Unity editor to start the game.
 
 ## Credits
-- **Lead Developer**: Liu-is-here
-- **Graphic Designer**: [Designer Name]
-- **Sound Designer**: [Designer Name]
-- **Testers**: [Tester Names]
+- **Developer**: Liu-is-here
 
 Feel free to contribute or suggest improvements!
